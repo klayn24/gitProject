@@ -34,5 +34,5 @@ class HomeController extends Controller {
 	}
 
 	public funtion ind()
-	{$a = 24; }
+	{$a = 25; }
 }
