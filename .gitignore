@@ -1,0 +1,5 @@
+/vendor
+/node_modules
+.env
+#игнорим папку с проектом от phpStorm
+/.idea
