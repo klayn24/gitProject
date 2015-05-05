@@ -29,7 +29,7 @@ class HomeController extends Controller {
 	 * @return Response
 	 */
 	public function index()
-	{
+	{csdf
 		return view('home');
 	}
 
