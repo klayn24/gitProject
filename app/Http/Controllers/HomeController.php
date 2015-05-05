@@ -34,5 +34,5 @@ class HomeController extends Controller {
 	}
 
 	public funtion ind()
-	{$a = 25; }
+	{$a = 25; $b = "master branch";}
 }
