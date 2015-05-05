@@ -34,6 +34,10 @@ class HomeController extends Controller {
 	}
 
 	public funtion ind()
+<<<<<<< HEAD
 	{$a = 25; $b = "2New Branch"; 23 }
 
+=======
+	{$a = 25; $b = "master branch2";}
+>>>>>>> master
 }
